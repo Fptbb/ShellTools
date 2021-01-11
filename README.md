@@ -2,7 +2,7 @@
 Alguns aplicativos criados com Shell script, uma lista abaixo: 
  
 ##• [*VsCode Portable Updater*](https://github.com/Fptbb/ShellTools/raw/main/Apps/Update.exe): Atualiza o VsCode para a versão mais nova, sem deletar a pasta data.##
-
+Criei pois uso VsCode Portable, é sempre que atualiza, é preciso deletar tudo e criar novamente, pra agilizar um pouco mais do seu tempo, pode-se usar esse simples programa.
 
  
 # Aviso
