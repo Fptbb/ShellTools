@@ -1,0 +1,20 @@
+{
+  "name": "shell-tools",
+  "version": "1.0.0",
+  "description": "Alguns aplicativos criados com Shell script",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+	"deploy": "git add . && git commit -am \"Update\" && git push -q origin main"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Fptbb/ShellTools.git"
+  },
+  "author": "Fptbb",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Fptbb/ShellTools/issues"
+  },
+  "homepage": "https://github.com/Fptbb/ShellTools#readme"
+}
